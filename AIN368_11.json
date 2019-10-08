@@ -20,9 +20,12 @@
 		
 	],
 	
-	"properties": [
+	"properties": {
 
-	],
+		
+	}
+
+	,
 
 	"methods": {
 		"setAngle": {
