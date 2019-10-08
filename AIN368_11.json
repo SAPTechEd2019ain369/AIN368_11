@@ -18,7 +18,11 @@
 		
 		}
 		
-    ],
+	],
+	
+	"properties": [
+
+	],
 
 	"methods": {
 		"setAngle": {
