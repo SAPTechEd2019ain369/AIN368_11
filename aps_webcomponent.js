@@ -43,7 +43,7 @@ class GaugeAps extends HTMLElement {
 
 }
 
-customElements.define("com-sap-teched-gauge-solution-aps", GaugeAps);
+customElements.define("com-sap-teched-11-aps", GaugeAps);
 
  
 
